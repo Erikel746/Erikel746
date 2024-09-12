@@ -1,16 +1,25 @@
-## Hi there 👋
+💫 About Me:
+Hi there! 👋
 
-<!--
-**Erikel746/Erikel746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on:
+- 🐍 Python scripts to automate tasks
+- ⚡ Learning Next.js to build web apps
+- 🦀 Exploring Rust for performance optimization
 
-Here are some ideas to get you started:
+I’m still at the beginning of my career, but I’m excited to grow and learn more. I’d love to collaborate on interesting projects, so feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! 😄
+🌐 Socials:
+
+Discord LinkedIn
+💻 Tech Stack:
+
+JavaScript Kotlin Markdown Rust YAML TypeScript Python Shell Script GithubPages Google Cloud NodeJS FastAPI Flask Next JS Nginx MySQL SQLite Storybook Canva GitHub Git Bitbucket ElasticSearch Cisco Confluence Home Assistant Pi-Hole Raspberry Pi Ubiquiti Docker Postman TOR Plex Wireguard
+📊 GitHub Stats:
+
+
+
+
+
+✍️ Random Dev Quote
+
